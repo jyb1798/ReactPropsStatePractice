@@ -13,7 +13,3 @@
 - pagination
 
 <br />
-
-## Assignments
-
-- Monsters
