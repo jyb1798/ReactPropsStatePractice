@@ -9,5 +9,3 @@
 - lifting state Up
 - url parameters
 - pagination
-
-<br />
