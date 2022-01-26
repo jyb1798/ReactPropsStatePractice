@@ -17,7 +17,7 @@ import "./Card.scss";
   Name 과 Email 도 마찬가지입니다.
 ***********************************************************/
 
-function Card() {
+function Card({ id, email }) {
   return <div className="cardContainer"></div>;
 }
 
